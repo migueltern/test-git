@@ -3,4 +3,4 @@ hola hola
 que pasa
 =======
 hola 
->>>>>>> parent of 3c39358... p2
+estoy probando
